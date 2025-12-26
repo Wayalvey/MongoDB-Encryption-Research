@@ -1,0 +1,6 @@
+pymongo==4.6.1
+pycryptodome==3.19.0
+Faker==22.5.1
+pandas==2.2.0
+matplotlib==3.8.2
+numpy==1.26.3
